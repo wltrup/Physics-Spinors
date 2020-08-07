@@ -45,7 +45,7 @@ And that's what I want to show you. But, first, I need to talk a little bit abou
 
 We've all learned something about **Geometry** in school. Geometry is the part of Mathematics that deals with so-called metric properties, things like size, length, distance, angles, areas, and volumes. However, objects of interest to mathematicians and physicists have other, more fundamental, properties. The best way to explain what these so-called **topological properties** are is by means of examples.
 
-Consider a handle-less cup and a sphere, like a rubber ball.[^image_sources]
+Consider a handle-less cup and a sphere, like a rubber ball.
 
 [![Glass cup](images/glass_cup.jpg)](https://upload.wikimedia.org/wikipedia/commons/f/ff/Glass_cup.JPG)
 [![Rubber balls](images/rubber_balls.jpg)](http://www.fravend.eu/PAGES/Images/BB5-rubber-ball-in-opp-bag,.jpg)
@@ -288,15 +288,15 @@ These are from Chapter 42 of *Gravitation* by Wheeler, Thorne, and Misner. I act
 
 #### Sources
 
-- The contortion rotate-the-mug feat was first shown, if I'm not mistaken, by Richard Feynman. I recently discovered that it's also known as ["the plate trick"](http://en.wikipedia.org/wiki/Plate_trick).
+- The contortion rotate-the-mug feat was first shown, if I'm not mistaken, by [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman). I recently discovered that it's also known as ["the plate trick"](http://en.wikipedia.org/wiki/Plate_trick).
 
-- [*A Brief History Of Time*](http://www.amazon.com/Brief-History-Time-Stephen-Hawking/dp/0553380168/), by Stephen Hawking.
+- [*A Brief History Of Time*](http://www.amazon.com/Brief-History-Time-Stephen-Hawking/dp/0553380168/), by [Stephen Hawking](https://en.wikipedia.org/wiki/Stephen_Hawking).
 
-- I do not recall where I learned about the board-and-cords contraption. It might have been from a book or a column written by the late Martin Gardner, but that's just a guess.
+- I do not recall where I learned about the board-and-cords contraption. It might have been from a book or a column written by the late [Martin Gardner](https://en.wikipedia.org/wiki/Martin_Gardner), but that's just a guess.
 
-- The two-coin demonstration is from a book by Seymour Papert on a subject that has absolutely nothing to do with the topic of this article: [*Mindstorms: Children, Computers, And Powerful Ideas*](http://www.amazon.com/Mindstorms-Children-Computers-Powerful-Ideas/dp/0465046746), by Seymour Papert. It just so happens that it fits the needs of this article so I used that here, though I replaced the coins with juggling balls. To my knowledge, the idea of using it for this purpose originated with me.
+- The two-coin demonstration is from a book by [Seymour Papert](https://en.wikipedia.org/wiki/Seymour_Papert) on a subject that has *absolutely nothing* to do with the topic of this article: [*Mindstorms: Children, Computers, And Powerful Ideas*](http://www.amazon.com/Mindstorms-Children-Computers-Powerful-Ideas/dp/0465046746). It just so happens that it fits the needs of this article so I used that here, though I replaced the coins with juggling balls. To my knowledge, the idea of using it for this purpose originated with me.
 
-- The argument that an exchange implies a 360-degree rotation, and the second demonstration I used above to show it, with the paper strip, were discovered/invented by Richard Feynman and appear in the excellent (but non-trivial) book [*Elementary Particles and The Laws of Physics: The 1986 Dirac Memorial Lectures*](http://www.amazon.com/Elementary-Particles-Laws-Physics-Memorial/dp/0521658624/) by Richard Feynman and Steven Weinberg.
+- The argument that an exchange implies a 360-degree rotation, and the second demonstration I used above to show it, with the paper strip, were discovered/invented by Richard Feynman and appear in the excellent (but non-trivial) book [*Elementary Particles and The Laws of Physics: The 1986 Dirac Memorial Lectures*](http://www.amazon.com/Elementary-Particles-Laws-Physics-Memorial/dp/0521658624/) by Feynman and [Steven Weinberg](https://en.wikipedia.org/wiki/Steven_Weinberg).
 
 - The 3-dimensional version of the board-and-cords contraption is from Chapter 42 of [*Gravitation*](http://www.amazon.com/Gravitation-Physics-Charles-W-Misner/dp/0716703440) by Wheeler, Thorne, and Misner.
 
