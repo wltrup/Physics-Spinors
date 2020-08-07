@@ -300,14 +300,14 @@ These are from Chapter 42 of *Gravitation* by Wheeler, Thorne, and Misner. I act
 
 - The 3-dimensional version of the board-and-cords contraption is from Chapter 42 of [*Gravitation*](http://www.amazon.com/Gravitation-Physics-Charles-W-Misner/dp/0716703440) by Wheeler, Thorne, and Misner.
 
-[^image_sources]: Image sources:
+#### Image sources
 
-    Glass cup: https://upload.wikimedia.org/wikipedia/commons/f/ff/Glass_cup.JPG
-    
-    Rubber balls: http://www.fravend.eu/PAGES/Images/BB5-rubber-ball-in-opp-bag,.jpg
-    
-    Wikipedia mug: https://upload.wikimedia.org/wikipedia/commons/a/ae/Wikipedia_mug.jpg
-    
-    Mug morphing into a torus: https://upload.wikimedia.org/wikipedia/commons/2/26/Mug_and_Torus_morph.gif
-    
-    Particle physics chart: http://www.cpepweb.org/images/chart_2006_4.jpg
+- Glass cup: https://upload.wikimedia.org/wikipedia/commons/f/ff/Glass_cup.JPG
+
+- Rubber balls: http://www.fravend.eu/PAGES/Images/BB5-rubber-ball-in-opp-bag,.jpg
+
+- Wikipedia mug: https://upload.wikimedia.org/wikipedia/commons/a/ae/Wikipedia_mug.jpg
+
+- Mug morphing into a torus: https://upload.wikimedia.org/wikipedia/commons/2/26/Mug_and_Torus_morph.gif
+
+- Particle physics chart: http://www.cpepweb.org/images/chart_2006_4.jpg
