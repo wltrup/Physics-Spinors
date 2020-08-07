@@ -14,7 +14,7 @@ In this two-part article you'll find out why that is and you'll also learn how i
 
 by **Wagner Truppel** ( aka *Roklimber* )
 
---
+---
 
 ### Rotations, rotations, rotations...
 
@@ -39,7 +39,7 @@ Strange as this is, you might think that it's not such a big deal. It turns out,
 
 And that's what I want to show you. But, first, I need to talk a little bit about **Topology**.
 
---
+---
 
 ### Part I: Topology
 
@@ -116,7 +116,7 @@ It's bizarre, isn't it? It looks like you have to make a bigger mess, to make th
 
 In the next part of this article, I'll show you what all of this has to do with physics and I'll show you some more awesomely bizarre demos, including an extension of the board-and-cords contraption that will make you doubt your sanity (or mine!).
 
---
+---
 
 ### Part II: Physics
 
